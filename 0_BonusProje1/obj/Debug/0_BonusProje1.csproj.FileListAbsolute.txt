@@ -1,0 +1,16 @@
+C:\Users\firat\source\repos\0_BonusProje1\0_BonusProje1\bin\Debug\0_BonusProje1.exe.config
+C:\Users\firat\source\repos\0_BonusProje1\0_BonusProje1\bin\Debug\0_BonusProje1.exe
+C:\Users\firat\source\repos\0_BonusProje1\0_BonusProje1\bin\Debug\0_BonusProje1.pdb
+C:\Users\firat\source\repos\0_BonusProje1\0_BonusProje1\obj\Debug\0_BonusProje1.csprojAssemblyReference.cache
+C:\Users\firat\source\repos\0_BonusProje1\0_BonusProje1\obj\Debug\_0_BonusProje1.Properties.Resources.resources
+C:\Users\firat\source\repos\0_BonusProje1\0_BonusProje1\obj\Debug\0_BonusProje1.csproj.GenerateResource.cache
+C:\Users\firat\source\repos\0_BonusProje1\0_BonusProje1\obj\Debug\0_BonusProje1.csproj.CoreCompileInputs.cache
+C:\Users\firat\source\repos\0_BonusProje1\0_BonusProje1\obj\Debug\0_BonusProje1.exe
+C:\Users\firat\source\repos\0_BonusProje1\0_BonusProje1\obj\Debug\0_BonusProje1.pdb
+C:\Users\firat\source\repos\0_BonusProje1\0_BonusProje1\obj\Debug\_0_BonusProje1.FrmOgrenciNotlar.resources
+C:\Users\firat\source\repos\0_BonusProje1\0_BonusProje1\obj\Debug\_0_BonusProje1.FrmOgretmen.resources
+C:\Users\firat\source\repos\0_BonusProje1\0_BonusProje1\obj\Debug\_0_BonusProje1.FrmKulup.resources
+C:\Users\firat\source\repos\0_BonusProje1\0_BonusProje1\obj\Debug\_0_BonusProje1.FrmDersler.resources
+C:\Users\firat\source\repos\0_BonusProje1\0_BonusProje1\obj\Debug\_0_BonusProje1.FrmOgrenci.resources
+C:\Users\firat\source\repos\0_BonusProje1\0_BonusProje1\obj\Debug\_0_BonusProje1.FrmSinavNotlar.resources
+C:\Users\firat\source\repos\0_BonusProje1\0_BonusProje1\obj\Debug\_0_BonusProje1.FrmAnaform.resources
